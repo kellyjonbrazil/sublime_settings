@@ -1,0 +1,9 @@
+// "Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings"
+{
+    "pep8_ignore":
+        [
+            "E309",
+            "E501"
+        ],
+    "python_interpreter": "python3",
+}
