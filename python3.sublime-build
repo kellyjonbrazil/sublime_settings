@@ -1,0 +1,6 @@
+// "Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build"
+{
+    "cmd": ["/usr/local/bin/python3", "-u", "$file"],
+    "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+    "selector": "source.python"
+}
