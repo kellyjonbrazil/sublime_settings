@@ -1,0 +1,5 @@
+// "Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings"
+{
+    "pep8_max_line_length": 120,
+    "python_interpreter": "python3",
+}
