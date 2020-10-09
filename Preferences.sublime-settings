@@ -1,0 +1,12 @@
+// "Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+{
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"translate_tabs_to_spaces": true
+}
